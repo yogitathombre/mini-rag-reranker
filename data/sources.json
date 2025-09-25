@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "06 - Todd Dickey - IRSC 2022 (Introduction to Industrial Robot Safety ISO 10218 Parts 1 and 2).pdf",
+    "title": "Todd Dickey - IRSC 2022 Industrial Robot Safety ISO 10218",
+    "url": "https://example.com/robot-safety"
+  },
+  {
+    "filename": "12-Franklin--RIA-IEEE_2019-05-19_v2.pdf",
+    "title": "Franklin RIA IEEE 2019",
+    "url": "https://example.com/franklin-ria"
+  },
+  {
+    "filename": "CELEX_32023R1230_EN_TXT.pdf",
+    "title": "CELEX EU Machinery Regulation 2023/1230",
+    "url": "https://example.com/celex-2023"
+  },
+  {
+    "filename": "eaton-safety-manual-pu05907001z-en-us.pdf",
+    "title": "Eaton Safety Manual PU05907001Z",
+    "url": "https://example.com/eaton-safety"
+  },
+  {
+    "filename": "EN_ISO_13849-1_2TLC172003B02002.pdf",
+    "title": "EN ISO 13849-1 Safety of Machinery",
+    "url": "https://example.com/en-iso-13849"
+  },
+  {
+    "filename": "EN_TechnicalguideNo10_REVF.pdf",
+    "title": "EN Technical Guide No 10 REVF",
+    "url": "https://example.com/technical-guide-10"
+  },
+  {
+    "filename": "FULLTEXT01.pdf",
+    "title": "Fulltext Safety Paper 01",
+    "url": "https://example.com/fulltext01"
+  },
+  {
+    "filename": "Hokuyo-USA_-_A_Safety_Guide_to_Industrial_Robotics_Hazards_-_Whitepaper.pdf",
+    "title": "Hokuyo USA Safety Guide to Industrial Robotics Hazards",
+    "url": "https://example.com/hokuyo-robot-safety"
+  },
+  {
+    "filename": "Machine-Safety-Brochure-Guide.pdf",
+    "title": "Machine Safety Brochure Guide",
+    "url": "https://example.com/machine-safety-brochure"
+  },
+  {
+    "filename": "oem-sp123_-en-p.pdf",
+    "title": "OEM SP123 Safety Publication",
+    "url": "https://example.com/oem-sp123"
+  },
+  {
+    "filename": "osha3170.pdf",
+    "title": "OSHA 3170: Machine Guarding",
+    "url": "https://www.osha.gov/machine-guarding"
+  },
+  {
+    "filename": "rep0217e.pdf",
+    "title": "ILO Report 0217E",
+    "url": "https://example.com/ilo-report-0217e"
+  },
+  {
+    "filename": "safebk-rm002_-en-p.pdf",
+    "title": "Safety Handbook RM002",
+    "url": "https://example.com/safety-handbook-rm002"
+  },
+  {
+    "filename": "Safety and functional safety, A general guide.pdf",
+    "title": "Safety and Functional Safety: A General Guide",
+    "url": "https://example.com/functional-safety-guide"
+  },
+  {
+    "filename": "Safety Committee Handout 1 Machine Guarding.pdf",
+    "title": "Safety Committee Handout: Machine Guarding",
+    "url": "https://example.com/safety-committee-guarding"
+  },
+  {
+    "filename": "sistema_cookbook1_end.pdf",
+    "title": "SISTEMA Cookbook Vol 1",
+    "url": "https://example.com/sistema-cookbook1"
+  },
+  {
+    "filename": "sistema_cookbook5_en_2_0.pdf",
+    "title": "SISTEMA Cookbook Vol 5 (v2.0)",
+    "url": "https://example.com/sistema-cookbook5"
+  },
+  {
+    "filename": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+    "title": "Special Information Guide for Safe Machinery",
+    "url": "https://example.com/safe-machinery-guide"
+  },
+  {
+    "filename": "tuev-rheinland-testing-of-industrial-machinery-flyer-2-en.pdf",
+    "title": "TÜV Rheinland Testing of Industrial Machinery",
+    "url": "https://example.com/tuv-rheinland"
+  },
+  {
+    "filename": "uk-mkg-practical-guide-en-GB-A4.pdf",
+    "title": "UK MKG Practical Safety Guide",
+    "url": "https://example.com/uk-mkg-guide"
+  }
+]

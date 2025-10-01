@@ -86,13 +86,13 @@ curl -X POST "http://127.0.0.1:9090/ask" \
   -d '{"q":"What is PPE?","k":3,"mode":"vector"}'
 
 # Hybrid reranker
-curl -X POST "http://127.0.0.1:8010/ask" \
+curl -X POST "http://127.0.0.1:9090/ask" \
   -H "Content-Type: application/json" \
   -d '{"q":"What is PPE?","k":3,"mode":"hybrid"}'
 
 Example (Python)
 import requests, json
-res = requests.post("http://127.0.0.1:8010/ask",
+res = requests.post("http://127.0.0.1:9090/ask",
     json={"q":"What is PPE?","k":3,"mode":"hybrid"})
 print(json.dumps(res.json(), indent=2))
 
